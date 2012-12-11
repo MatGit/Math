@@ -1,4 +1,4 @@
-
+// commentaire
 
 class FenMenu extends JFrame
 { public FenMenu ()
